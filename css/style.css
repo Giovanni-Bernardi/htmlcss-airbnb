@@ -1,0 +1,39 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* container proprety*/
+.container{
+  width: 400px;
+  height: 200px;
+  background: yellow;
+  color: black;
+  border: 2px solid black ;
+}
+
+
+/* destination title */
+.imgtitle{
+
+}
+
+/* background */
+#lapponia{
+
+}
+
+#madagascar{
+
+}
+
+#maldive{
+  
+}
+
+/* hover */
+
+
+
+/* animation */
