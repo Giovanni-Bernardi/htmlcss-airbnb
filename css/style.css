@@ -77,9 +77,10 @@ top: 50%;
 transform: translate(-50%, -50%);
 text-align: center;
 color: #fff;
-font-size: 50px;
+font-size: 60px;
 font-weight: 600;
 text-transform: capitalize;
+text-shadow: 3px 3px #242424;
 }
 
 /* layover */
